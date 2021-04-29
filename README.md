@@ -143,7 +143,7 @@ anything goes bad :-) and it can be ignored.
 
 ## Work with the original code
 
-If you are a contributor and you want to work and improve the code
+If you are a developer and you want to work and improve the code
 you only need clone the project and install all the dependencies with:
 
 ```bash
