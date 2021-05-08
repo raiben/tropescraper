@@ -4,6 +4,7 @@
 [![Github all releases](https://img.shields.io/github/downloads/raiben/tropescraper/total.svg)](https://GitHub.com/raiben/tropescraper/releases/)
 [![GitHub issues](https://img.shields.io/github/issues/raiben/tropescraper.svg)](https://GitHub.com/Naereen/raiben/tropescraper/)
 [![PyPI version](https://badge.fury.io/py/tropescraper.svg)](https://badge.fury.io/py/tropescraper)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3408587.svg)](https://doi.org/10.5281/zenodo.3408587)
 
 # tropescraper
 
